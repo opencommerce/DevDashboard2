@@ -1,5 +1,5 @@
 {
-    "name": "opencommerce/module-devdashboard",
+    "name": "opencommerce/devdashboard",
     "type": "magento2-module",
     "description": "",
     "license": "OSL-3.0",
