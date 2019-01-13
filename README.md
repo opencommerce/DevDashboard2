@@ -12,7 +12,7 @@ Provides an alternative admin dashboard for developers in Magento 2. Inspired by
 
 ## Installation
 
-    composer require firegento/module-devdashboard
+    composer require opencommerce/devdashboard
     
 ## System Requirements
 
